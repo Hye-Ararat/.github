@@ -9,4 +9,4 @@
 <br />
 <br />
 
-<p align="center">Hye Ararat is design to bring speed, flexibility and customisability to your convenience!</p>
+<p align="center">Hye Ararat the next generation of container and virtual machine management. It is your one-stop shop for single application containers, full system containers, and KVM instances. All built on the incredible LXD platform.</p>
